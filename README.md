@@ -10,7 +10,7 @@ For security purposes, I have removed my personal API key from line 12 of my Jav
 
 **Roadmap of Future Improvements**
 
-In the future, I would like experiment with applying this application to buses local to me, in the Minneapolis area.
+In the future, I would like to experiment with applying this application to buses local to me, in the Minneapolis area.
 
 
 
