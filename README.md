@@ -1,6 +1,9 @@
 # MIT-Real-Time-Bus-Tracker
 
-View buses moving on Route 1, near MIT and Harvard, in real time. This project takes the bus locations from the MBTA (Massachusetts Bay Transportation Authority) website, and marks them on a map from Google Maps.
+View buses moving on Route 1, near MIT and Harvard, in real time. This project takes the bus locations from the MBTA (Massachusetts Bay Transportation Authority) website, and marks them on a map from Google Maps. Technologies used: JavaScript ES6, HTML, CSS, and Google Cloud (API).
+
+
+![image](https://github.com/user-attachments/assets/85a27e23-544f-482f-93a2-8ec4560102e6)
 
 
 
